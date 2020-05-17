@@ -1,12 +1,12 @@
 # TEAM3--CS691-692-IT691-SPRING-2020
 
-Design Factors of 5G Bringing Innovation to the Medical Field
+Title: Design Factors of 5G Bringing Innovation to the Medical Field
 
 Team Members: Guy Butler, Irwin Narayan, Vinod Antony, Adrian Johnson
 
 Customer: Druvil Ghandi
 
-The medical field is a ever growing, vastly changing
+Abstract: The medical field is a ever growing, vastly changing
 sector of our culture. Technology has a direct impact on its
 growth thus causing the rapid evolution of this aspect of our
 economy and truly innovating this field in its entirety. We asked
